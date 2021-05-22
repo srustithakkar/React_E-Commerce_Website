@@ -1,0 +1,36 @@
+html {
+  height: 100%
+}
+body {
+  height: 100%;
+  font-size: 0.875rem;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+.ghotst-div {
+  height: 56px;
+}
+
+.cbt-mouse-img {
+  width: 45px;
+}
+
+.cbt-timer-alert {
+  display: flex;
+  padding: 5px 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 30px;
+  background-color: black;
+  color: white;
+  border-bottom-right-radius: 10px;
+}
